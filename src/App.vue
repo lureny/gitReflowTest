@@ -10,7 +10,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       class="logo"
       src="@/assets/logo.svg"
       width="125"
-      height="125"
+      height="125444"
     />
 
     <div class="wrapper">
@@ -29,7 +29,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 <style scoped>
 header {
   line-height: 1.5;
-  max-height: 80vh;
+  max-height: 90vh;
 }
 
 .logo {
